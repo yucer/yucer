@@ -41,7 +41,6 @@ I'm gradually publishing projects that reflect my interests in software engineer
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yucer&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucer&layout=compact&hide_border=true" />
+  <img height="170" src="./profile/stats/github-stats.svg" alt="GitHub statistics card for yucer" />
+  <img height="170" src="./profile/stats/top-languages.svg" alt="Most used languages card for yucer" />
 </p>
-
