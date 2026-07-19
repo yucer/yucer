@@ -1,4 +1,3 @@
-```markdown
 # Software & Infrastructure Engineer
 
 I build and maintain software and infrastructure with a focus on reliability, automation, and maintainability.
@@ -45,4 +44,4 @@ I'm gradually publishing projects that reflect my interests in software engineer
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=yucer&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yucer&layout=compact&hide_border=true" />
 </p>
-```
+
